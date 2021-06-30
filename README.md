@@ -1,5 +1,5 @@
 # 30-lines-code.android
-[![Logo](/logo.png)](https://alixaprodev.com/)
+[![Logo](/android.png)](https://alixaprodev.com/)
 
 # 30 Lines of code
 
